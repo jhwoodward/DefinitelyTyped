@@ -1,7 +1,7 @@
 {
     "private": true,
     "name": "@types/gorilla-engine",
-    "version": "1.1.9999",
+    "version": "1.2.9999",
     "projects": [
         "https://gorilla-engine.com"
     ],
